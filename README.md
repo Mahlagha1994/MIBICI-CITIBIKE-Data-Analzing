@@ -95,5 +95,9 @@ Clone the repository:
    
 ```
 ---
-This project was developed as part of the Data Analysis Bootcamp at [**Rahnema College**](https://rahnemacollege.com/data-science/data-analysis-bootcamp). 
+
+## 🎓 Acknowledgments
+
+This project was developed as part of the Data Analysis Bootcamp at [**Rahnema College**](https://rahnemacollege.com/data-science/data-analysis-bootcamp).  
 Special thanks to the instructors and mentors for their guidance.
+
